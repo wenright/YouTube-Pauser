@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "YouTube Pauser",
+  "description": "Pauses YouTube videos when the space bar is hit, instead of scrolling down the page",
+  "version": "0.1",
+
+  "permissions": [
+    "tabs"
+  ],
+
+  "content_scripts": [{
+    "matches": ["*://www.youtube.com/*"],
+    "js": ["keypressed.js"]
+  }]
+}
