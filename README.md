@@ -1,2 +1,2 @@
 # YouTube-Pauser
-A tiny chrome extension that pauses Youtube videos when you hit space, instead of scrolling down the page
+This extension isn't on the web store yet, so to add it you will need to enable developer mode at chrome://extensions/, then drag and drop the unzipped repo onto that page.
