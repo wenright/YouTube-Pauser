@@ -1,2 +1,4 @@
 # YouTube-Pauser
-This extension isn't on the web store yet, so to add it you will need to enable developer mode at chrome://extensions/, then drag and drop the unzipped repo onto that page.
+
+### Installation
+Download the .crx file from [releases](https://github.com/wenright/YouTube-Pauser/releases), open Chrome's extension page (chrome://extensions/), then drag and drop the .crx file onto the page.
